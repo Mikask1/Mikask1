@@ -12,5 +12,3 @@ I am a 3rd year student in Indonesia. I have working and research experience in 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mikask1&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
